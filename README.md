@@ -20,21 +20,21 @@ Valor_Venda      - Sale value<br>
 
 ## Tools
 
-Python, Pandas, Matplotlib, Seaborn, 
+Python, Pandas, Matplotlib, and Seaborn.
 
 
 ## Business Questions Answered
 
-1 - Which city has the highest sales value for products in a specific category?
-2 - How much is the total sales by Order Date?
-3 - What is the total sales per state?
-4 - Which are the 10 cities with the highest total sales?
-5 - Which segment had the highest total sales?
-6 - How much is the total sales by market segment and by year?
-7 - Simulation of discounts based on sale price.
-8 - Calculating the average of values ​​with and without discounts.
-9 - What is the average sales by Segment, by Year and by Month?
-10 - What is the total sales by Category and Sub-Category, considering only the top 12 Sub-Categories?
+1 - Which city has the highest sales value for products in a specific category?<br>
+2 - How much is the total sales by Order Date?<br>
+3 - What is the total sales per state?<br>
+4 - Which are the 10 cities with the highest total sales?<br>
+5 - Which segment had the highest total sales?<br>
+6 - How much is the total sales by market segment and by year?<br>
+7 - Simulation of discounts based on sale price.<br>
+8 - Calculating the average of values ​​with and without discounts.<br>
+9 - What is the average sales by Segment, by Year and by Month?<br>
+10 - What is the total sales by Category and Sub-Category, considering only the top 12 Sub-Categories?<br>
 
 
 Pull requests are welcome. For major changes, please open an issue first
