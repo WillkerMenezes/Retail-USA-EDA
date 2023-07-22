@@ -6,17 +6,17 @@ Dataset link: <https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sampl
 
 ## Metadata Description
 
-ID_Pedido        - Order ID
-Data_Pedido      - Order date
-ID_Cliente       - Customer ID
-Segmento         - Market segment
-Pais             - Country
-Cidade           - City
-Estado           - State
-ID_Produto       - Product ID
-Categoria        - Product category
-SubCategoria     - Product subcategory
-Valor_Venda      - Sale value
+ID_Pedido        - Order ID<br>
+Data_Pedido      - Order date<br>
+ID_Cliente       - Customer ID<br>
+Segmento         - Market segment<br>
+Pais             - Country<br>
+Cidade           - City<br>
+Estado           - State<br>
+ID_Produto       - Product ID<br>
+Categoria        - Product category<br>
+SubCategoria     - Product subcategory<br>
+Valor_Venda      - Sale value<br>
 
 ## Tools
 
